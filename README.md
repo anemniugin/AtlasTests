@@ -11,6 +11,7 @@ Create file **application.properties** in _src_ directory with parameters:
 - downloadpath
 - test.mode  
 - test.browser 
+- headless
 - link
 - e.g.
 
@@ -22,6 +23,8 @@ _downloadpath_ is a directory to save files (Note: directory should be exist)
 _test.mode_ local or remote
 
 _test.browser_
+
+_headless_ - true or false 
 
 _link_ is link to test environment
 
